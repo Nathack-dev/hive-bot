@@ -7,7 +7,7 @@
   <h3 align="center">Hive'Bot</h3>
 
   <p align="left">
-Le bot permet "juste pour l'instant" de généré aléatoirement via une API un image d'abeille.
+The bot allows "just for now" to randomly generate via an API an image of a bee.
     
 <br/>
 </div>
@@ -22,5 +22,5 @@ Le bot permet "juste pour l'instant" de généré aléatoirement via une API un 
 ## ⚙️ How-To setup 
 
  
- ## 📚 Fonctions utiles 
+ ## 📚 Useful functions 
 
